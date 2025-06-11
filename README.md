@@ -1,6 +1,6 @@
 # 📘 Java vs Python: A Batalha Simples para Desenvolvedores Reais
 
-Este repositório contém um **eBook prático** criado como atividade do curso da **Digital Innovation One (DIO)**, utilizando **ChatGPT** e **Carbon*.
+Este repositório contém um **eBook prático** criado como atividade do curso da **Digital Innovation One (DIO)**, utilizando **ChatGPT** e **Carbon**.
 
 O objetivo é comparar, de forma simples e objetiva, as linguagens **Java** e **Python** em contextos reais do dia a dia de um desenvolvedor.
 
